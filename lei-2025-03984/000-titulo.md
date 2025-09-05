@@ -1,0 +1,2 @@
+# LEI Nº 3.984, DE 11 JUNHO DE 2025 DÁ O NOME ANDRÉ LUIZ CASIMIRO CORRÊA À NOVA PRAÇA LOCALIZADA NA AVENIDA ESCRITOR ISRAEL FELIPE, SITUADA NO BAIRRO DE SANTO INÁCIO, NO MUNICÍPIO DO CABO DE SANTO AGOSTINHO O Prefeito do Município do Cabo de Santo Agostinho, Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
+Art. Dá o nome André Luiz Casimiro Corrêa à nova praça da Vila Roca, localizada na Avenida Escritor Israel Felipe, situada no bairro de Santo Inácio em frente ao CRAS Vila Roca, no Município do Cabo de Santo Agostinho.
