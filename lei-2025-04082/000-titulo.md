@@ -1,0 +1,1 @@
+# LEI Nº 4.082, DE 21 DE OUTUBRO DE 202 DÁ O NOME DE RUA ZILDA OLIVEIRA DE ARRUDA, A RUA PARALELA COM A NELSON MENDES AO LADO DO CRAS, LOCALIZADA NO BAIRRO DE SANTO INÁCIO, NO MUNICÍPIO DO CABO DE SANTO AGOSTINHO O Prefeito do Município do Cabo de Santo Agostinho, Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
