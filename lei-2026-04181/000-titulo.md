@@ -1,0 +1,1 @@
+# LEI Nº 4.181, DE 05 DE MARÇO DE 2026 DÁ NOME A ESCOLA MUNICIPAL DE ENSINO FUNDAMENTAL I PROFESSORA ALZIRA SENA, A SER CONSTRUÍDA NA VILA CLAUDETE, BAIRRO GARAPU O Prefeito do Município do Cabo de Santo Agostinho, Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
