@@ -1,0 +1,1 @@
+# LEI Nº 4.182, DE 05 DE MARÇO DE 2026 INSTITUI O PROGRAMA "A SAÚDE COMEÇA PELA BOCA" PARA A REDE MUNICIPAL DE ENSINO DO CABO DE SANTO AGOSTINHO O Prefeito do Município do Cabo de Santo Agostinho, Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
