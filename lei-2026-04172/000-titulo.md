@@ -1,0 +1,1 @@
+# LEI Nº 4.172, DE 04 DE MARÇO DE 2026 DÁ O NOME DE RUA PAU D"ALHO, A RUA CONHECIDA COMO RUA 04, LOCALIZADA NO BAIRRO DE ENSEADA DOS CORAIS, SETOR IV, NO MUNICÍPIO DO CABO DE SANTOS AGOSTINHO O Prefeito do Município do Cabo de Santo Agostinho, Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
