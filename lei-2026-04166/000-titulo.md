@@ -1,0 +1,1 @@
+# LEI Nº 4.166, DE 04 DE MARÇO DE 2026 DECLARA DE UTILIDADE PÚBLICA O ENCONTRO DE FORROZEIROS DO CABO DE SANTO AGOSTINHO, COM SEDE NO MUNICÍPIO DO CABO DE SANTO AGOSTINHO O Prefeito do Município do Cabo de Santo Agostinho, Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
