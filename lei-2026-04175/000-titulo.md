@@ -1,0 +1,1 @@
+# LEI Nº 4.175, DE 05 DE MARÇO DE 2026 DÁ O NOME DE RUA FRUTA DA CONDESSA, A RUA CONHECIDA COMO RUA 02, LOCALIZADA NO BAIRRO DE ENSEADA DOS CORAIS, SETOR IV, NO MUNICÍPIO DO CABO DE SANTOS AGOSTINHO O Prefeito do Município do Cabo de Santo Agostinho, Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
