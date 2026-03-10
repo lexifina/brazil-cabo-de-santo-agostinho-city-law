@@ -1,0 +1,1 @@
+# LEI Nº 4.165, DE 04 DE MARÇO DE 2026 ALTERA O ART. 1º DA LEI Nº 4.059, DE 17 DE SETEMBRO DE 2025, QUE DENOMINA PRAÇA LOCALIZADA NA AVENIDA BOM CONSELHO, NO MUNICÍPIO DO CABO DE SANTO AGOSTINHO O Prefeito do Município do Cabo de Santo Agostinho, Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
