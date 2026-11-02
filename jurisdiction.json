@@ -1,0 +1,9 @@
+{
+  "path": "br-pe-cabo-de-santo-agostinho",
+  "code": "BR-PE-CABO-DE-SANTO-AGOSTINHO",
+  "name": "Cabo de Santo Agostinho (city)",
+  "level": "municipality",
+  "parent": "br-pe",
+  "repo": "https://github.com/lexifina/brazil-cabo-de-santo-agostinho-city-law",
+  "build": "built: the law of Cabo de Santo Agostinho from the Câmara Municipal's SAPL"
+}

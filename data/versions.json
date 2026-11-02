@@ -1,0 +1,633 @@
+{
+ "country": "BR-PE-CABO-DE-SANTO-AGOSTINHO",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Cabo-de-Santo-Agostinho",
+   "title": "Lei Orgânica do Município de Cabo de Santo Agostinho",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/540",
+   "versions": [
+    {
+     "from": "1990-04-03",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/0,1990-04-03,1994-05-18:4nd_40mG4oiWzZjDiHNK7ehj6OA/",
+     "sha256": "323407becc3f59a05585434fcb02d7610b1fac101091f0d7e84c34fcc446cc43"
+    },
+    {
+     "from": "1994-05-19",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/3897,1994-05-19,1995-02-13:xVyBvJyPYvHUMkFwrRHfMBSSu-0/",
+     "sha256": "48797b4cbda3086bf2d7110610ae919d675e4afec70308bcbd7487e66aa0740a"
+    },
+    {
+     "from": "1995-02-14",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/2281,1995-02-14,1995-08-27:afNWiXWIPZjZ7N-OZEhyTspLKuk/",
+     "sha256": "d05b8dd00de66a647974138f09c7ca8c0ff0a6c5293c15c2d80d39431ba147ba"
+    },
+    {
+     "from": "1995-08-28",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/3886,1995-08-28,1997-03-11:dBxzbzkyV-R3K8cfT9zVascAyqU/",
+     "sha256": "3355fe41f207b34c7bc21ace124c058a339024c957393ac52c47282fef080cf2"
+    },
+    {
+     "from": "1997-03-12",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/3887,1997-03-12,1998-08-09:XLbwvdXvGGP01vnlZDKq-4xX7iU/",
+     "sha256": "cadab62ba3723d69272d742d77ffaa99e2ca32cfaf8962b0deb95aa0d020097a"
+    },
+    {
+     "from": "1998-08-10",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/3888,1998-08-10,1999-05-12:qhUstFzas3crZrG8q_8U3r593OU/",
+     "sha256": "f6326658a6046d41ca0c66dcb0449f780bb350f8096402fb9cf61dc74643a77e"
+    },
+    {
+     "from": "1999-05-13",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/2166,1999-05-13,1999-09-16:6c-J4mG18JLlpeU0L4Rmbm2bJjs/",
+     "sha256": "5ce2bef24ae1c037fd16fe79c046ea1d0c6f30cc022901229ec92c66f0f25851"
+    },
+    {
+     "from": "1999-09-17",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/3889,1999-09-17,2000-08-29:ctHtGQw8hAVGUBbfV5EMx1cgYuI/",
+     "sha256": "cbad1d9cf6409fe1f704a0a6cc3c6a3f697b6b8e3f911404668a0ab3b344a8da"
+    },
+    {
+     "from": "2000-08-30",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/549,2000-08-30,2001-05-02:xgmRnokw5lGUL_oOA_65GZPBKwA/",
+     "sha256": "e6fefdc15f2d344fc439f0176c206cef6bb9a79655d11cd8f7aa05d42c9f89b5"
+    },
+    {
+     "from": "2001-05-03",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/548,2001-05-03,2001-12-08:RRQMHauZ9atK18hg9IlA8shMGdU/",
+     "sha256": "480d6724c3adfd122025ffba324c41540c35c9006e8d4af6cdce9e75217b0e65"
+    },
+    {
+     "from": "2001-12-09",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/2046,2001-12-09,2006-05-02:qEsyM_U3C49BDSnTCy7VGwV5Bnc/",
+     "sha256": "00996f8d1f4cca1f06e9f362eb3277b04b029d61785f36a037ca156534086331"
+    },
+    {
+     "from": "2006-05-03",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/551,2006-05-03,2006-06-22:qjNJsn18WSExWDJOjomSnNSQam8/",
+     "sha256": "144b26353a27e03de1ada90a3fb35b7964b19855941c96c58e07714ff3d56573"
+    },
+    {
+     "from": "2006-06-23",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/550,2006-06-23,2009-03-03:i1iXLRzYSUOc-YCQ2ASYKt_guV8/",
+     "sha256": "a3cf228f9916bdcfab8d43d973ea12e39406b1ebc2ad0e4e5f84c3e7f56d53c6"
+    },
+    {
+     "from": "2009-03-04",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/553,2009-03-04,2009-03-09:6zukT-f2b8tFrfE7LU8ckPFIwz0/",
+     "sha256": "88c10126eeff290ba41ce9e511884e0e43cdefeaa9f44c24c7da91de276b17ba"
+    },
+    {
+     "from": "2009-03-10",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/552,2009-03-10,2011-10-05:RghcvjTMCRiCLXnUkHShLIXRGxk/",
+     "sha256": "b6d81829f207c8cb278ec9bed9e1e87642a3caeaf6f44a4028e61422e3fcdbba"
+    },
+    {
+     "from": "2011-10-06",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/563,2011-10-06,2013-03-19:wS2O1WTp0S3iZMDP92rL03VnMVg/",
+     "sha256": "09ca47d478f0adf9125b78e76b0ebdcd9968c19ac98c967649e174ca36ced640"
+    },
+    {
+     "from": "2013-03-20",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/554,2013-03-20,2013-03-26:j-DiXB4YS187mcO_fxdJcBrnzZM/",
+     "sha256": "6b92b757c2bb42df58be65c40105e4733d7c027c71a03a6cccd1da2c7b2562c4"
+    },
+    {
+     "from": "2013-03-27",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/555,2013-03-27,2013-08-08:Ujj7MqMLCmzjOKxHjeC1E4zgf7w/",
+     "sha256": "9dd6fe655529e6a503d3f1bc501229b6aa2e5df0476df35cb305c42c2b00c815"
+    },
+    {
+     "from": "2013-08-09",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/556,2013-08-09,2013-12-03:GQSXRDlH0UUBTG7ONbO6H4nKA4w/",
+     "sha256": "31c9a411ce944eb1cdaede44ed00f3e1a1d3b90df61c08e1c38e176c6dedd782"
+    },
+    {
+     "from": "2013-12-04",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/557,2013-12-04,2015-06-01:0-0IZ52VJg-Y5eKpu7RjswVwd1k/",
+     "sha256": "ca9c4af269e4752431c663bffba1716e9c1d5738b2d8a7c58017af0b5a7da49f"
+    },
+    {
+     "from": "2015-06-02",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/558,2015-06-02,2016-12-04:y6C6FvU3yd3QSzmufapFr3LqvT8/",
+     "sha256": "cdf921d3d7c25101ae2bfed3680cb4d1c7bf362ad811f89485cb70dddf7c7321"
+    },
+    {
+     "from": "2016-12-05",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/559,2016-12-05,2017-09-25:mUdzZQHoGeqiY9XeifVAMDVCPg8/",
+     "sha256": "1abefc4cd59c49dd41bd5b4e4620468e04d73f90d354cec60bb80f8ba787a6b6"
+    },
+    {
+     "from": "2017-09-26",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/560,2017-09-26,2019-03-14:QfdRx1ZZgXq1vvN1tlQ6coBsY50/",
+     "sha256": "cc55c7de462d958aab28a450e75096dbe2156a562aa12010c1ce2b933d25e88f"
+    },
+    {
+     "from": "2019-03-15",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/561,2019-03-15,2019-06-26:IqHswqlcZByqxe-1dPTpyYbetqo/",
+     "sha256": "d84dc74f652e779ba1f4ceb8da6a8808fe1d80195f977d6c5b85d73a4afdb137"
+    },
+    {
+     "from": "2019-06-27",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/562,2019-06-27,2021-04-07:oBq2rDfqwDE2VzZq6xdghlH0Zb4/",
+     "sha256": "16c4696a8befe2804e467af2c46df3c193e29c25548bb213d6d925cbc2920580"
+    },
+    {
+     "from": "2021-04-08",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/3890,2021-04-08,2021-10-06:NwPScVAvpGVvjEc_aSk-XpKo3AY/",
+     "sha256": "b84efe4f4e84b5b76a0859fdeaccbb24eacb84991a26cc15e121d35b12ec587b"
+    },
+    {
+     "from": "2021-10-07",
+     "units": 177,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/1059,2021-10-07,2024-12-25:b8_eO-BExO3lwudYw8rPOx5KC9o/",
+     "sha256": "7c9831107e1b631da9789723537d790dd74816bfa80f266344c28d9808561ee8"
+    },
+    {
+     "from": "2024-12-26",
+     "units": 189,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/2543,2024-12-26,2025-10-23:2Rm5NBwxziRfpH0lMf2mUoDoJaM/",
+     "sha256": "5497e2311e22aaaca6954ecaacba7daa0746593e34b82c26f3878f099b3afb17"
+    },
+    {
+     "from": "2024-12-26",
+     "units": 189,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/2544,2024-12-26,2025-10-23:Xc1BZsyVlxcrAIIF7VNg4T_FbZE/",
+     "sha256": "47ee0433e06af29c319e25e5ac3e1b56b7ba9d2fa8a654ef2ba294930f56fc64"
+    },
+    {
+     "from": "2025-10-24",
+     "units": 189,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/543/text/vigencia/3891,2025-10-24,2026-06-10:kIGW2jdRzHeVVLDx2hq0pUjGHFk/",
+     "sha256": "a53132b2133359a67c646b98b5c702b57c1462730ff89e4750ca524440d68f4d"
+    },
+    {
+     "from": "2026-06-11",
+     "units": 189,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/540",
+     "sha256": "2291b1855cc5326cc0a49e77145f9cff42b7f97bd7eaf3df407fb9092f675c68"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04254",
+   "short": "Lei 4254/2026",
+   "title": "Lei nº 4.254, de 14 de julho de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/3978",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 8,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/3978/lei-4254-julho-2026.pdf",
+     "sha256": "712458f958bc05f7e72dd621dcda77ab99878ac072f57127951f84204e7de9ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04253",
+   "short": "Lei 4253/2026",
+   "title": "Lei nº 4.253, de 14 de julho de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/3998",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 5,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/3998/lei-4253-julho-2026.pdf",
+     "sha256": "eebd58ba0eb83f5921f1ea6e0e79b42de7be1fc082c30d5baa24a8cbe7c93eab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04252",
+   "short": "Lei 4252/2026",
+   "title": "Lei nº 4.252, de 14 de julho de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/3999",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 8,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/3999/lei-4252-julho-2026.pdf",
+     "sha256": "a50b013657b24434d3b50f75eb43206451a04974caea2e819debaf1f6f8b0fe1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04251",
+   "short": "Lei 4251/2026",
+   "title": "Lei nº 4.251, de 14 de julho de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4001",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 9,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/4001/lei-4251-julho-2026.pdf",
+     "sha256": "23ba68b1101ebefa337ec606fa602d6cf80d7b0780cc362618d32ae863267998"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04250",
+   "short": "Lei 4250/2026",
+   "title": "Lei nº 4.250, de 14 de julho de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4002",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 6,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/4002/lei-4250-julho-2026.pdf",
+     "sha256": "8b975fab7a7b5bd2775e2990530f6d3580c50f5cc7044d9f17280508da699754"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04227",
+   "short": "Lei 4227/2026",
+   "title": "Lei nº 4.227, de 20 de maio de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/3831",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 3,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/3831/lei-4227-maio-2026.pdf",
+     "sha256": "23b6b6f72b98ad903b59ca07d3075e026cb1d4efb143c0e4fb56a6dfa685b82c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04226",
+   "short": "Lei 4226/2026",
+   "title": "Lei nº 4.226, de 20 de maio de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/3830",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 14,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/3830/lei-4226-maio-2026.pdf",
+     "sha256": "ce135d08886e4f8c7ab24c44472bd8bf8aadb6e17ab5d264ca0488fb6ed3cf4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04225",
+   "short": "Lei 4225/2026",
+   "title": "Lei nº 4.225, de 20 de maio de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/3829",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 8,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/3829/lei-4225-maio-2026.pdf",
+     "sha256": "663a7126fb3f34663c64bcd55e3b80f41f14a3f8daff2f67edf848794663fe52"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04224",
+   "short": "Lei 4224/2026",
+   "title": "Lei nº 4.224, de 20 de maio de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/3828",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 6,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/3828/lei-4224-maio-2026.pdf",
+     "sha256": "fbef58859d3c85ad63bcc845e0374aa63d7677119fd7380fefde829eb0da447a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04217",
+   "short": "Lei 4217/2026",
+   "title": "Lei nº 4.217, de 7 de maio de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/3967",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 7,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/3967/lei-4217-julho-2026.pdf",
+     "sha256": "3dcdaeddb4e9cde6133c89823d0bed316710892f2f3fd3828861b523a4a5888b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04198",
+   "short": "Lei 4198/2026",
+   "title": "Lei nº 4.198, de 19 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/3966",
+   "versions": [
+    {
+     "from": "2026-07-15",
+     "units": 4,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/3966/lei-4198-julho-2026.pdf",
+     "sha256": "5160220c88b7789495e287843d473c8e4ebceff1e5f284820b92ddddc2736e0d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04187",
+   "short": "Lei 4187/2026",
+   "title": "Lei nº 4.187, de 18 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/3091",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 3,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/3091/lei.4187-26.pdf",
+     "sha256": "9e27644fb15cb2630ebc089a61f27851003a2cec621347b526d86abbb6bca2b4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04186",
+   "short": "Lei 4186/2026",
+   "title": "Lei nº 4.186, de 18 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/3086",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 10,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/3086/lei.4186-26.pdf",
+     "sha256": "5794761c1ae021df401c0a2c9bf15913d4410205e7724bc14596fc2fd312ec34"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04182",
+   "short": "Lei 4182/2026",
+   "title": "Lei nº 4.182, de 5 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2999",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 6,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/2999/lei.4182-26.pdf",
+     "sha256": "0f27bba8df474673ef2013f68eb721dc23eba0732bdf901187d4d0090dd5660f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04181",
+   "short": "Lei 4181/2026",
+   "title": "Lei nº 4.181, de 5 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2991",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 3,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/2991/lei.4181-26.pdf",
+     "sha256": "71f32b3fe860aa47f916754945a2c1e172d502df413240d843a56c259439b5d5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04179",
+   "short": "Lei 4179/2026",
+   "title": "Lei nº 4.179, de 5 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2988",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 4,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/2988/lei.4179-26.pdf",
+     "sha256": "9c7699a6f91e7aac9cef0505df21458fb2cb0c0cfd5f21fb505b9f94ed640b88"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04178",
+   "short": "Lei 4178/2026",
+   "title": "Lei nº 4.178, de 5 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2997",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 7,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/2997/lei.4178-26.pdf",
+     "sha256": "e5e9db11acd5e98e2d23f466af9dab84f0c07bf822972864ddc22393be725f04"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04176",
+   "short": "Lei 4176/2026",
+   "title": "Lei nº 4.176, de 5 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2996",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 3,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/2996/lei.4176-26.pdf",
+     "sha256": "69a57837670e0ae78598c2c29b80383281cce45ef4d837f6aa5b980cfb0a59d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04175",
+   "short": "Lei 4175/2026",
+   "title": "Lei nº 4.175, de 5 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2992",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 3,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/2992/lei.4175-26.pdf",
+     "sha256": "fa80797c5bcb22c92741a238f0f5dc11474274d3bd6e0fecc285240630536df9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04173",
+   "short": "Lei 4173/2026",
+   "title": "Lei nº 4.173, de 4 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2994",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 3,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/2994/lei.4173-26.pdf",
+     "sha256": "aeef17bac18404eba5ee57f4272053ace5db5e1b45136585ccf1e1192cf0d61c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04172",
+   "short": "Lei 4172/2026",
+   "title": "Lei nº 4.172, de 4 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2998",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 3,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/2998/lei.4172-26.pdf",
+     "sha256": "e8d5673928c42c3536693be3855ba51d3709f93ff2614891da8a550a5ddcf678"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04166",
+   "short": "Lei 4166/2026",
+   "title": "Lei nº 4.166, de 4 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2993",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 3,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/2993/lei.4166-26.pdf",
+     "sha256": "c984808bd188be72b7583122a47952b274896fa0e61fd9c941be0919bcfad315"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-04165",
+   "short": "Lei 4165/2026",
+   "title": "Lei nº 4.165, de 4 de março de 2026",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2990",
+   "versions": [
+    {
+     "from": "2026-03-10",
+     "units": 3,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2026/2990/lei.4165-26.pdf",
+     "sha256": "cbf5f28ae0c177eaeb87fa620834ade583a201bc96b09b45f705a5fcd766e1a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04109",
+   "short": "Lei 4109/2025",
+   "title": "Lei nº 4.109, de 1 de dezembro de 2025",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2701",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 6,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2025/2701/lei_4109_2025.pdf",
+     "sha256": "c719cc8b88a2aec1155e87d0c3b378b9a1c5c2ee4d47d423e3857829577722ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04092",
+   "short": "Lei 4092/2025",
+   "title": "Lei nº 4.092, de 28 de outubro de 2025",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2652",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 6,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2025/2652/lei_4.092.pdf",
+     "sha256": "2b7d31f374f35ee05eb9233b93132f3e9a231564c18628415d9e8ea0b6b0b392"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04088",
+   "short": "Lei 4088/2025",
+   "title": "Lei nº 4.088, de 22 de outubro de 2025",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2654",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 3,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2025/2654/lei_4.088.pdf",
+     "sha256": "bf2470262a1e200b4eca69ed824d80ded727de58c9db38e63b4cc1dc78d295ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04082",
+   "short": "Lei 4082/2025",
+   "title": "Lei nº 4.082, de 21 de outubro de 2025",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2496",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 3,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2025/2496/lei_4082_2025.pdf",
+     "sha256": "562a5eb4eb85d2e90ddff053ab307842231274d4d57a629fe1e7ce38eb45f741"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04080",
+   "short": "Lei 4080/2025",
+   "title": "Lei nº 4.080, de 20 de outubro de 2025",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2402",
+   "versions": [
+    {
+     "from": "2025-10-31",
+     "units": 3,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2025/2402/lei_4080_2025.pdf",
+     "sha256": "22e66eb32f8ab038c3cb328f58cfe25b52de2b790e27cc6da1bd22b2fa5d581d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-04049",
+   "short": "Lei 4049/2025",
+   "title": "Lei nº 4.049, de 5 de setembro de 2025",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2398",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 8,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2025/2398/lei_no_4.049_de_05_de_setembro_de_2025.pdf",
+     "sha256": "78532cd60214287db81d49ec1341201fce5eb95ec0967b1362e3bbe3c972a4f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03991",
+   "short": "Lei 3991/2025",
+   "title": "Lei nº 3.991, de 17 de julho de 2025",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2651",
+   "versions": [
+    {
+     "from": "2025-07-18",
+     "units": 6,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2025/2651/lei_3991_2025.pdf",
+     "sha256": "4e4126fdc372f3cc86b5d1a972575195bb9a4b96b9061a73a833f53473e7266d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-03984",
+   "short": "Lei 3984/2025",
+   "title": "Lei nº 3.984, de 11 de junho de 2025",
+   "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2722",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 2,
+     "source_url": "https://sapl.cabodesantoagostinho.pe.leg.br/media/sapl/public/normajuridica/2025/2722/lei_3984-2025.pdf",
+     "sha256": "3672cdf3b20d608915b3f16485ce0ae70c23f955c320ef32d5c40897082810a1"
+    }
+   ]
+  }
+ ]
+}
